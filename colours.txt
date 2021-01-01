@@ -3,6 +3,7 @@ Greem
 Blue
 Yellow
 White
+Gray
 Pink
 Black
 Violate
